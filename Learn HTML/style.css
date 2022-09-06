@@ -1,0 +1,21 @@
+body{
+    background-color:greenyellow;
+    color: black;
+    font-size: 22px;
+    box-sizing: border-box;
+    font-style: italic;
+    
+}
+.increment{
+    background-color: blue;
+    color:blue;
+
+}
+.decrement{
+    background-color: orange;
+    color: orange;
+}
+.reset{
+    background-color:red;
+    color: red;
+}
